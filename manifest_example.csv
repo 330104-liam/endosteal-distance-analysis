@@ -1,0 +1,8 @@
+filename,animal_id,group
+Mouse01_section01.tif,Mouse01,Control
+Mouse01_section02.tif,Mouse01,Control
+Mouse02_section01.tif,Mouse02,Control
+Mouse03_section01.tif,Mouse03,Control
+Mouse04_section01.tif,Mouse04,Treated
+Mouse05_section01.tif,Mouse05,Treated
+Mouse06_section01.tif,Mouse06,Treated
