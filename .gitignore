@@ -22,4 +22,14 @@ roi_length_um.txt
 run_settings.json
 *_auto_annotations.json
 .DS_Store
-Thumbs.db
+Thumbs.db*.TIF
+*.TIFF
+*.PNG
+*.JPG
+*.JPEG
+*.PDF
+*.ND2
+*.CZI
+*.LIF
+*.zip
+*.7z
